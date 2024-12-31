@@ -1,0 +1,7 @@
+hacpack_backup/
+Build*/*
+build
+.vscode/
+ExeFs/*
+prod.keys
+WebDeck.*
